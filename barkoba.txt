@@ -1,3 +1,4 @@
 Tibi: élőlény?
 Ati: nem
 Tibi: tárgy?
+Ati: igen
