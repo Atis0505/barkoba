@@ -1,2 +1,3 @@
-élőlény?
-nem
+Tibi: élőlény?
+Ati: nem
+Tibi: tárgy?
