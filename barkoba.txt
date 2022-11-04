@@ -3,3 +3,4 @@ Ati: nem
 Tibi: tárgy?
 Ati: igen
 Tibi kérdezi: nyugtató tabletta???
+Ati: egyáltalán nem!
